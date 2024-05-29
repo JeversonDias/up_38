@@ -1,5 +1,5 @@
 <center><h1>Instalação up para Batocera v.38</h1></center>
-![Exemplo]([URL_DA_IMAGEM](https://drive.google.com/file/d/1r9BaXPKqcepGohBH5OByKw3pX5tGDnQS/view?usp=sharing))
+![Exemplo]([URL_DA_IMAGEM](https://drive.google.com/file/d/1r9BaXPKqcepGohBH5OByKw3pX5tGDnQS/view))
 
 
 
