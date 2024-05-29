@@ -33,4 +33,4 @@ Entrar na pasta de jogo que não está rodando e executar o comando
 ```bash
 up
 
-``
+```
