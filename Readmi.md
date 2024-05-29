@@ -1,6 +1,6 @@
 <center><h1>Instalação up para Batocera v.38</h1></center>
 
-<center><h2>A instalação leva cerca de 5 minutos!</h2></center>
+<center><h1>A instalação leva cerca de 5 minutos!</h1></center>
 
 Baixar o arquivo UP_v38.zip no link á baixo, 
 
