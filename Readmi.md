@@ -1,5 +1,5 @@
 <center><h1>Instalação up para Batocera v.38</h1></center>
-![Exemplo]([URL_DA_IMAGEM](https://drive.google.com/file/d/1r9BaXPKqcepGohBH5OByKw3pX5tGDnQS/view))
+![Exemplo](https://drive.google.com/uc?id=1r9BaXPKqcepGohBH5OByKw3pX5tGDnQS)
 
 
 
@@ -9,8 +9,8 @@
 Baixar o arquivo UP_v38.zip no link á baixo, 
 
 
-```
-https://drive.google.com/file/d/1JlkstFHbEhH49sxoJMvUrfbfmc-iUiNP/view?usp=sharing
+```Diff
+[UP_v38.zip](https://drive.google.com/file/d/1JlkstFHbEhH49sxoJMvUrfbfmc-iUiNP/view?usp=sharing)
 
 ```
 
