@@ -38,5 +38,7 @@ up
 # Este é um jogo que costuma dar problema recomendamos baixar para testar 
 
 # https://steamunlocked.net/e24f29-teenage-mutant-ninja-turtles-shredders-revenge-free-download/
-![Descrição da imagem](https://steamunlocked.net/wp-content/uploads/2022/06/Teenage-Mutant-Ninja-Turtles-Shredders-Revenge-Free-Download.png)
+
+<img src="https://steamunlocked.net/wp-content/uploads/2022/06/Teenage-Mutant-Ninja-Turtles-Shredders-Revenge-Free-Download.png" alt="Descrição da imagem">
+
 
