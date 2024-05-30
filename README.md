@@ -6,9 +6,14 @@
 
 <center><h1>A instalação leva cerca de 5 minutos!</h1></center>
 
+
 <h2>Baixar o arquivo UP_v38.zip no link á baixo,</h2>
 
-#LINK EM BREVE !!!
+
+
+
+# LINK ESTARÁ DISPONÍVEL EM BREVE !!!
+# POR ENQUANTO PODEM IR BAIXANDO E PREPARANDO O JOGO PARA TESTE!
 
 
 # Descompactar o arquivo no terminal rode 
@@ -26,8 +31,13 @@ chmod +x Instalador
 ```bash
 ./Instalador
 ```
+
+
+
 <h2>O comando já está pronto para uso quando aparecer a mensagem de sucesso no terminal...</h2>
 # Uso
+
+
 
 Entrar na pasta de jogo que não está rodando e executar o comando 
 
@@ -35,6 +45,9 @@ Entrar na pasta de jogo que não está rodando e executar o comando
 up
 
 ```
+
+
+
 # Este é um jogo que costuma dar problema recomendamos baixar para testar 
 
 
