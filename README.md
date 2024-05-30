@@ -39,7 +39,7 @@ up
 
 # https://steamunlocked.net/e24f29-teenage-mutant-ninja-turtles-shredders-revenge-free-download/
 
-<center><img src="https://steamunlocked.net/wp-content/uploads/2022/06/Teenage-Mutant-Ninja-Turtles-Shredders-Revenge-Free-Download.png" width="1080" height="1920"></center>
+<center><img src="https://steamunlocked.net/wp-content/uploads/2022/06/Teenage-Mutant-Ninja-Turtles-Shredders-Revenge-Free-Download.png" width="640" height="480"></center>
 
 
 
