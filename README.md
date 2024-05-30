@@ -11,9 +11,7 @@
 
 
 
-
-# LINK ESTARÁ DISPONÍVEL JÁ JÁ !!!
-# POR ENQUANTO PODEM IR BAIXANDO E PREPARANDO O JOGO PARA TESTE!
+[UP_v38](https://drive.google.com/file/d/1JlkstFHbEhH49sxoJMvUrfbfmc-iUiNP/view?usp=sharing)
 
 
 # Descompactar o arquivo no terminal rode 
