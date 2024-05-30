@@ -26,7 +26,7 @@ chmod +x Instalador
 ```bash
 ./Instalador
 ```
-
+<h2>O comando já está pronto para uso quando aparecer a mensagem de sucesso no terminal...</h2>
 # Uso
 
 Entrar na pasta de jogo que não está rodando e executar o comando 
