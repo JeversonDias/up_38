@@ -35,3 +35,6 @@ Entrar na pasta de jogo que não está rodando e executar o comando
 up
 
 ```
+# Este é um jogo que costuma dar problema recomendamos baixar para testar 
+
+https://steamunlocked.net/e24f29-teenage-mutant-ninja-turtles-shredders-revenge-free-download/
