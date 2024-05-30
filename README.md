@@ -36,7 +36,8 @@ up
 
 ```
 # Este é um jogo que costuma dar problema recomendamos baixar para testar 
-[BAIXAR O GAME PARA TESTAR](https://steamunlocked.net/e24f29-teenage-mutant-ninja-turtles-shredders-revenge-free-download/)
+# [BAIXAR O GAME PARA TESTAR !!!](https://steamunlocked.net/e24f29-teenage-mutant-ninja-turtles-shredders-revenge-free-download/){:target="_blank"}
+
 
 
 <img src="https://drive.google.com/uc?id=1M-LerAxS4WO7ULMZZgQ7yVEZeZf4nLAj" alt="Exemplo">
