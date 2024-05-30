@@ -8,7 +8,7 @@
 
 Baixar o arquivo UP_v38.zip no link á baixo, 
 
-# [UP_v38.zip](https://drive.google.com/file/d/1JlkstFHbEhH49sxoJMvUrfbfmc-iUiNP/view?usp=sharing)
+# [UP_v38](https://drive.google.com/file/d/1JlkstFHbEhH49sxoJMvUrfbfmc-iUiNP/view?usp=sharing)
 
 
 # Descompactar o arquivo no terminal rode 
